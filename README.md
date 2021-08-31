@@ -4,7 +4,7 @@ This repo contains jupyter notebooks used for analysis of the ExSamples ensemble
 
 ## Notebook list
 
-The notebooks are intended to be run on JASMIN, and have references to directories that will break if run locally (unless changed to local data copies). The order notebooks contains in this repo are as given below. The italic lists of graphical elements indicates which notebooks are used to create which elements.
+The notebooks are intended to be run on JASMIN, and have references to directories that will break if run locally (unless changed to local data copies). The notebooks, and their descriptions and run order are given below. The italic lists of graphical elements indicates which notebooks are used to create which elements.
 
 | order | /path/to/notebook  | description |
 | ----- | ------------- | ------------- |
@@ -13,7 +13,7 @@ The notebooks are intended to be run on JASMIN, and have references to directori
 | 3 | /notebooks/manuscript-UKCP-SST-maps.ipynb  | Creates the maps illustrating the synoptic situation during the three study winters. *FIG 2*  |
 | 4 | /notebooks/manuscript-distribution-tasmax.ipynb  | Creates the figures showing statistics for the temperature variables + calculates various statistics used to compare the ensembles. *FIG 3,4; FIGS 4,7-9; TAB2*  |
 | 5 | /notebooks/manuscript-distribution-pr.ipynb  | Creates the figures showing statistics for the precipitation variables + calculates various statistics used to compare the ensembles. *FIG 5; FIGS 5,6,10-12; TAB2* |
-| 6 | /notebooks/manuscript-SI-dynamical-eof-analysis.ipynb  | Performs the large-scale flow analysis described inthe supplemenentary information. *FIGS 1,2*  |
+| 6 | /notebooks/manuscript-SI-dynamical-eof-analysis.ipynb  | Performs the large-scale flow analysis described in the supplemenentary information. *FIGS 1,2*  |
 | 7 | /notebooks/manuscript-storylines-of-8960966.ipynb  | A deeper look into the "record-shattering" extreme ExSamples member. No analysis used in study, but interesting nonetheless.  |
 
 ## Data sources and availability
